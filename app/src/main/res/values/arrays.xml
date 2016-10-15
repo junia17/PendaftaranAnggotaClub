@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bias">
+        <item>Nayeon</item>
+        <item>Jungyeon</item>
+        <item>Momo</item>
+        <item>Sana</item>
+        <item>Jihyo</item>
+        <item>Mina</item>
+        <item>Dahyun</item>
+        <item>Chaeyoung</item>
+        <item>Tzuyu</item>
+    </string-array>
+</resources>
